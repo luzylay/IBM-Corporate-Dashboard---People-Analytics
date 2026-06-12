@@ -83,9 +83,3 @@ Grupo-09-Guayerd-IBM-2025/
 ## Entregables originales
 
 La carpeta `archive/` conserva copias completas de los entregables originales tal como estaban en Descargas. Se mantiene como respaldo para trazabilidad y revisión histórica.
-
-## Recomendaciones para GitHub
-
-- Mantener `data/raw/` solo con archivos fuente necesarios.
-- Evitar subir archivos temporales o de caché del editor.
-- Documentar cualquier nueva transformación de datos en `docs/` o en un notebook adicional.
