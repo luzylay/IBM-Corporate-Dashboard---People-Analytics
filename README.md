@@ -89,7 +89,3 @@ La carpeta `archive/` conserva copias completas de los entregables originales ta
 - Mantener `data/raw/` solo con archivos fuente necesarios.
 - Evitar subir archivos temporales o de caché del editor.
 - Documentar cualquier nueva transformación de datos en `docs/` o en un notebook adicional.
-
-## Estado del proyecto
-
-La estructura principal ya está ordenada para publicarse en GitHub con separación entre documentación, código, datos, resultados y respaldo histórico.
